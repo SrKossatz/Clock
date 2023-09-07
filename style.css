@@ -6,7 +6,7 @@
 }
 
 body{
-  background-color:black;
+  background:linear-gradient(90deg, rgb(6, 4, 48) 0%, rgba(0,0,0,1) 0%, rgba(10,2,46,1) 0%);
  
 }
 
